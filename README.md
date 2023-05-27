@@ -14,5 +14,6 @@ The following technologies and libraries were used for this project:
 - PyCaw: Enables changes in volume.
 - HandTracking module: Tracks the fingers and calculates the distance between them.
 - mediapipe library: Used for hand tracking.
+- cv2
 
 Feel free to explore the repository and contribute to the project.
